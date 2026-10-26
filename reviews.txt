@@ -9,3 +9,7 @@ gatsby-particle-typography-animation - kalmia - very good lift off and sea of ch
 gatsby-particle-typography-animation - opus 5.5 high - my overall favourite - only thing I do not like is the typewriter even though it is 3D, it still looks very 2D and "flat" with no textures).
 
 webgl-particle-typography-animation - argon high - 2nd overall favourite, good 3d rendering of typewriter, but not the same model as in the video. Also deducting some points from the pacing and timing of the lift off and the text animation effects.
+
+webgl-particle-typography-animation - grok 4.7 high - Contains an outstanding city backdrop implementation
+
+gatsby-merged - Our merged instance that contains all the best elements from everyone.
