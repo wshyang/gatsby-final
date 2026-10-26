@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+html,
+body,
+#root {
+  height: 100%;
+  margin: 0;
+  background: #000;
+  overflow: hidden;
+}
+
+.deco-btn {
+  @apply border-b border-transparent pb-0.5 text-[#f1e6cf]/80 transition-colors duration-200 hover:border-[#d9b45b] hover:text-[#f1e6cf];
+}
+
+input[type="range"]::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  width: 18px;
+  height: 18px;
+}
+input[type="range"]::-moz-range-thumb {
+  width: 18px;
+  height: 18px;
+  border: 0;
+}
