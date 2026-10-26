@@ -1,5 +1,9 @@
-webgl-particle-typography-animation - fable max - very good rendition of letters appearing on typewritten page, but key strikers of the typewriter is rendered corrupted. The zoom out from the typewriter is too fast. The camera panning is also too fast. For better effect, all the letters on all visible pages should lift off. The character lift off is too fast. The floating sea of alphabets is too sparse. Most impressive implementation so far but having many issues.
+webgl-particle-typography-animation - fable max - very good rendition of letters appearing on typewritten page, but key strikers of the typewriter is rendered corrupted. The zoom out from the typewriter is too fast. The camera panning is also too fast. For better effect, all the letters on all visible pages should lift off. The character lift off is too fast. The floating sea of alphabets is too sparse. Most impressive implementation so far but having many issues. I really like the typewriter and the letters getting rendered if not for the corruption.
 
 webgl-particle-typography-animation - fable low - the pacing of the camera pan and the letters lift off is good. The size of the letters in the sea of letters is good. While the background showing the city is not a 3D model and is based off a image, the clever use of the blur effct coming into focus is good.
 
 webgl-particle-typography-animation - mimo 2.6 pro - this implementation is bad in that it doesn't have 3d model for my typewriter or my backdrop, but the photo realistic appearance of the typewriter is good. The pacing of the lift off and the sea of characters effect is also good. However the way the letters come together to form the characters is not the desired effect.
+
+gatsby-particle-typography-animation - kalmia - very good lift off and sea of characters and pacing effect.
+
+gatsby-particle-typography-animation - opus 5.5 high - my overall favourite - only thing I do not like is the typewriter even though it is 3D, it still looks very 2D and "flat" with no textures).
